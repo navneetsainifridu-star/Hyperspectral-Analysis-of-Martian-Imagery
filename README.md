@@ -58,3 +58,6 @@ Completed as a practical educational exercise using Esri training course materia
 
 ## Reference
 Esri Training Exercise: Perform Hyperspectral Analysis of Martian Imagery.
+## Project Preview
+
+![Mars Hyperspectral Analysis](Mars_Hyperspectral_Analysis.png)
